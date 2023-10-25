@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: Open Sans;
+    background-color: aliceblue;
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img {
+    width: 18%;
+    height: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+a {
+    font-size: large;
+}
