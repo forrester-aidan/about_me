@@ -8,12 +8,21 @@
 
 .b {
     font-weight: bold;
-    background-color: black;
+    background-color: #81BCFA;
 }
 
-/* p {
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p {
     margin-left: 100px;
     margin-right: 100px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 img {
@@ -25,5 +34,4 @@ img {
 
 body {
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
-} */
+}
