@@ -8,10 +8,10 @@
 
 .b {
     font-weight: bold;
-    background-color: black !important;
+    background-color: black;
 }
 
-a {
+/* a {
     color: black;
 }
 
@@ -30,4 +30,4 @@ img {
 body {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
-}
+} */
