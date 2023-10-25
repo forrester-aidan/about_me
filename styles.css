@@ -1,8 +1,19 @@
-button {
-    background-color: #81B3C4 !important;
-    font-size: 15px !important;
+.buttons {
+    width: 100px;
+    height: 25px;
+    font-size: 15px;
     font-family: 'Open Sans', sans-serif;
-    margin: 5px !important;
+    margin: auto;
+    text-align: center;
+    display: inline;
+}
+
+.b {
+    font-weight: bold;
+}
+
+a {
+    color: black;
 }
 
 p {
